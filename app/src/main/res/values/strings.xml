@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="welcomeTitle">Welcome to ITE!</string>
+    <string name="welcomeSubTitle">Login to access your classroom</string>
+    <string name="loginButton">Login</string>
+    <string name="loginHint">ID</string>
+    <string name="passwordHint">Password</string>
+    <string name="clearButton">Clear</string>
+</resources>
